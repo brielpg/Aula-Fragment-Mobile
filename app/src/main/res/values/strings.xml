@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AulaFragment</string>
+    <string name="login">LOGIN</string>
+    <string name="cadastro">CADASTRO</string>
+</resources>
